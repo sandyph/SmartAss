@@ -1,0 +1,61 @@
+Baby Back Ribs, 360
+Bacon and Eggs, 539
+Baked Beans, 244
+Baked Chicken, 282
+BBQ Ribs, 360
+Beef Stew, 186
+Biryani, 484
+Black Pudding, 101
+Black Rice, 323
+Brown Rice, 670
+Burrito, 326
+Butter Chicken, 490
+California Roll, 33
+Chicken Caesar Salad, 392
+Chicken Fried Steak, 423
+Chicken Marsala, 2209
+Chicken Parmesan, 250
+Chicken Pot Pie, 673
+Chicken Tikka Masala, 195
+Chili con Carne, 266
+Chimichanga, 418
+Cobb Salad, 632
+Collard Greens, 13
+Corn Dog, 438
+Corned Beef Hash, 349
+Deviled Eggs, 124
+Dim Sum, 37
+Enchiladas, 323
+Fajita, 290
+Fish and Chips, 585
+Fried Rice, 662
+Fried Shrimp, 75
+Grilled Cheese Sandwich, 392
+Ham and Cheese Sandwich, 352
+Hummus, 435
+Jambalaya, 250
+Kebab, 774
+Lasagne, 284
+Mac and Cheese, 699
+Mashed Potatoes, 174
+Meat Pie, 290
+Meatloaf, 721
+Orange Chicken, 420
+Pad Thai, 375
+Pea Soup, 190
+Peanut Butter Sandwich, 200
+Philly Cheese Steak, 300
+Pizza 1 slice, 272
+Pork Chop, 295
+Potato Salad, 136
+Pulled Pork Sandwich, 551
+Ramen, 380
+Ravioli, 134
+Sausage Roll, 361
+Shepherds Pie, 159
+Shrimp Cocktail, 130
+Spaghetti Bolognese, 374
+Spring Roll, 350
+Taco, 213
+Yorkshire Pudding, 83
+

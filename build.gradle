@@ -1,0 +1,34 @@
+plugins {
+    id 'java'
+}
+
+group 'org.example'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+sourceSets {
+    main {
+        java {
+            srcDirs = ['src']
+        }
+//        resources {
+//            srcDirs 'src/main/resources'
+//        }
+    }
+}
+dependencies {
+    compile 'junit:junit:4.12'
+    // https://mvnrepository.com/artifact/com.microsoft.sqlserver/mssql-jdbc
+    compile files('libs/mssql-jdbc-9.4.0.jre11.jar')
+}
+
+jar {
+    manifest {
+        attributes(
+                'Class-Path': configurations.compile.collect { it.getName() }.join(' '),
+                'Main-Class': 'ht4/Package/Main'
+        )
+    }
+}
